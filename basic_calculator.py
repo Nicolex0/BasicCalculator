@@ -10,7 +10,7 @@ def basic_calculator(num1, num2, operator):
     else:
         return "Invalid operator"
 
-# # User imput
-# num1 = float(input("Enter first number: "))
-# num2 = float(input("Enter second number: "))
-# operator = input("Enter operator (+, -, *, /): ")
+# User imput
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+operator = input("Enter operator (+, -, *, /): ")
